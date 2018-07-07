@@ -1,27 +1,32 @@
 # Prolog
 programmation en logique (French for programming in logic)
 
-###install SWI-Prolog 
+### install SWI-Prolog 
 
 http://www.swi-prolog.org
 
 https://wwu-pi.github.io/tutorials/lectures/lsp/010_install_swi_prolog.html
 
-###Learn Prolog
+### Learn Prolog
 http://www.learnprolognow.org/lpnpage.php?pageid=online
 
-####Hello world: http://www.swi-prolog.org/howto/http/HelloText.html
++ [The Power of Prolog](https://www.metalevel.at/prolog)
 
-###Prolog Development Tools (ProDT) 
++ [Youtube](https://www.youtube.com/playlist?list=PLkdv0ay0HIBGKYJFLlo53m3fdUX22mTlm)
+
+#### Hello world: http://www.swi-prolog.org/howto/http/HelloText.html
+
+### Prolog Development Tools (ProDT) 
 http://prodevtools.sourceforge.net
 
 
-####writing custom type systems for python in prolog
+#### writing custom type systems for python in prolog
 http://code.alehander42.me/prolog_type_systems
-####prolog interpreter in Go
+
+#### prolog interpreter in Go
 https://github.com/mndrix/golog
 
-###Lparse  & AnsProlog
+### Lparse  & AnsProlog
 
 Clasp: http://www.cs.uni-potsdam.de/clasp/
 
