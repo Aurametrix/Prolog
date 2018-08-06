@@ -8,23 +8,28 @@ http://www.swi-prolog.org
 https://wwu-pi.github.io/tutorials/lectures/lsp/010_install_swi_prolog.html
 
 ### Learn Prolog
-http://www.learnprolognow.org/lpnpage.php?pageid=online
++ http://www.learnprolognow.org/lpnpage.php?pageid=online
 
 + [The Power of Prolog](https://www.metalevel.at/prolog)
 
 + [Youtube](https://www.youtube.com/playlist?list=PLkdv0ay0HIBGKYJFLlo53m3fdUX22mTlm)
 
-#### Hello world: http://www.swi-prolog.org/howto/http/HelloText.html
+#### Hello world: 
+
+http://www.swi-prolog.org/howto/http/HelloText.html
 
 ### Prolog Development Tools (ProDT) 
 http://prodevtools.sourceforge.net
 
 
-#### writing custom type systems for python in prolog
+#### Writing custom type systems for python in prolog
 http://code.alehander42.me/prolog_type_systems
 
-#### prolog interpreter in Go
+#### Prolog interpreter in Go
 https://github.com/mndrix/golog
+
+#### [Metainterpreters](https://www.metalevel.at/acomip/)
+
 
 ### Lparse  & AnsProlog
 
