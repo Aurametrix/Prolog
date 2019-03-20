@@ -30,6 +30,17 @@ https://github.com/mndrix/golog
 
 #### [Metainterpreters](https://www.metalevel.at/acomip/)
 
+#### [The Power of Prolog](https://www.metalevel.at/prolog)
+
+Prolog Business Cases: https://www.metalevel.at/prolog/business
+
+Sorting and Searching: https://www.metalevel.at/prolog/sorting
+
+Cryptography with Prolog: https://www.metalevel.at/prolog/cryptography
+
+Engineering Aspects: https://www.metalevel.at/prolog/engineering
+
+Artificial Intelligence with Prolog: https://www.metalevel.at/prolog/ai
 
 ### Lparse  & AnsProlog
 
