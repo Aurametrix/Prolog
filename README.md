@@ -14,6 +14,10 @@ https://wwu-pi.github.io/tutorials/lectures/lsp/010_install_swi_prolog.html
 
 + [Youtube](https://www.youtube.com/playlist?list=PLkdv0ay0HIBGKYJFLlo53m3fdUX22mTlm)
 
++ [The Art of Prolog](https://mitpress.mit.edu/books/art-prolog-second-edition)
+
++ [The awesome Prolog list](https://github.com/klaussinani/awesome-prolog)
+
 #### Hello world: 
 
 http://www.swi-prolog.org/howto/http/HelloText.html
