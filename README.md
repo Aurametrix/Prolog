@@ -22,8 +22,11 @@ https://wwu-pi.github.io/tutorials/lectures/lsp/010_install_swi_prolog.html
 
 http://www.swi-prolog.org/howto/http/HelloText.html
 
-### Prolog Development Tools (ProDT) 
-http://prodevtools.sourceforge.net
+###  Dev
+
++ [Prolog Development Tools, ProDT](http://prodevtools.sourceforge.net)
+
++ [web applications](https://www.metalevel.at/prolog/web)
 
 
 #### Writing custom type systems for python in prolog
