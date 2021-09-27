@@ -35,6 +35,9 @@ http://code.alehander42.me/prolog_type_systems
 #### Prolog interpreter in Go
 https://github.com/mndrix/golog
 
+#### Prolog Library for PostgreSQL
+https://github.com/aarroyoc/postgresql-prolog
+
 #### [Metainterpreters](https://www.metalevel.at/acomip/)
 
 #### [The Power of Prolog](https://www.metalevel.at/prolog)
