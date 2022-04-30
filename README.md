@@ -54,6 +54,8 @@ Artificial Intelligence with Prolog: https://www.metalevel.at/prolog/ai
 
 Prolog in 2021: http://dstrohmaier.com/why-learn-prolog-in-2021/
 
+Examples from HN: https://news.ycombinator.com/item?id=31210466
+
 ### Lparse  & AnsProlog
 
 Clasp: http://www.cs.uni-potsdam.de/clasp/
