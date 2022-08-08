@@ -63,3 +63,4 @@ Clasp: http://www.cs.uni-potsdam.de/clasp/
 DLV-Complex: http://www.mat.unical.it/dlv-complex/
 
 Platypus http://www.cs.uni-potsdam.de/platypus/
+Prolog interface for G0: https://github.com/guregu/trealla-go
