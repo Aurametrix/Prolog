@@ -56,6 +56,8 @@ Prolog in 2021: http://dstrohmaier.com/why-learn-prolog-in-2021/
 
 Examples from HN: https://news.ycombinator.com/item?id=31210466
 
+Natural Language Analysis (1987): http://www.mtome.com/Publications/PNLA/prolog-digital.pdf
+
 ### Lparse  & AnsProlog
 
 Clasp: http://www.cs.uni-potsdam.de/clasp/
