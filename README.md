@@ -58,6 +58,8 @@ Examples from HN: https://news.ycombinator.com/item?id=31210466
 
 Natural Language Analysis (1987): http://www.mtome.com/Publications/PNLA/prolog-digital.pdf
 
+[Game Programming](https://thingspool.net/morsels/page-10.html)
+
 ### Lparse  & AnsProlog
 
 Clasp: http://www.cs.uni-potsdam.de/clasp/
