@@ -32,8 +32,12 @@ http://www.swi-prolog.org/howto/http/HelloText.html
 #### Writing custom type systems for python in prolog
 http://code.alehander42.me/prolog_type_systems
 
-#### Prolog interpreter in Go
-https://github.com/mndrix/golog
+#### With Other Languages
+[Prolog interpreter in Go](https://github.com/mndrix/golog)
+
+[C+P](https://github.com/needleful/c_plus_prolog) - C Plus Prolog
+
+[Run Prology in your browser](https://quantumprolog.sgml.net/browser-demo/browser-demo.html)
 
 #### Prolog Library for PostgreSQL
 https://github.com/aarroyoc/postgresql-prolog
