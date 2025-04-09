@@ -42,9 +42,13 @@ http://code.alehander42.me/prolog_type_systems
 #### Prolog Library for PostgreSQL
 https://github.com/aarroyoc/postgresql-prolog
 
-#### [Metainterpreters](https://www.metalevel.at/acomip/)
+#### Misc
 
-#### [The Power of Prolog](https://www.metalevel.at/prolog)
+[Metainterpreters](https://www.metalevel.at/acomip/)
+
+[The Power of Prolog](https://www.metalevel.at/prolog)
+
+[Solving a "Layton Puzzle" with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
 
 Prolog Business Cases: https://www.metalevel.at/prolog/business
 
