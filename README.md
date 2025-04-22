@@ -68,6 +68,8 @@ Natural Language Analysis (1987): http://www.mtome.com/Publications/PNLA/prolog-
 
 [Game Programming](https://thingspool.net/morsels/page-10.html)
 
+[Prolog adventure game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
+
 [Clolog](https://github.com/bobschrag/clolog) - full-featured logic programming embedded in/callable from and supporting calls to Clojure. 
 
 ### Lparse  & AnsProlog
