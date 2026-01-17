@@ -66,6 +66,8 @@ Examples from HN: https://news.ycombinator.com/item?id=31210466
 
 Natural Language Analysis (1987): http://www.mtome.com/Publications/PNLA/prolog-digital.pdf
 
+[Waune's Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
+
 [Game Programming](https://thingspool.net/morsels/page-10.html)
 
 [Prolog adventure game](https://github.com/stefanrodrigues2/Prolog-Adventure-game)
